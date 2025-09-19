@@ -1,1 +1,2 @@
-# Study-Tracker
+# Final-App
+Science Project
